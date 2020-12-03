@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\bin\Debug\ConstDemo.exe.config
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\bin\Debug\ConstDemo.exe
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\bin\Debug\ConstDemo.pdb
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\obj\Debug\ConstDemo.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\obj\Debug\ConstDemo.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\obj\Debug\ConstDemo.exe
+C:\CDAC\DOTNET\DAY2\setget\ConstDemo\obj\Debug\ConstDemo.pdb

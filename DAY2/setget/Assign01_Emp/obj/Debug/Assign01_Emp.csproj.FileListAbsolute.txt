@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\obj\Debug\Assign01_Emp.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\obj\Debug\Assign01_Emp.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\bin\Debug\Assign01_Emp.exe.config
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\bin\Debug\Assign01_Emp.exe
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\bin\Debug\Assign01_Emp.pdb
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\obj\Debug\Assign01_Emp.exe
+C:\CDAC\DOTNET\DAY2\setget\Assign01_Emp\obj\Debug\Assign01_Emp.pdb

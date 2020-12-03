@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\bin\Debug\Assignment1Day3.exe.config
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\bin\Debug\Assignment1Day3.exe
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\bin\Debug\Assignment1Day3.pdb
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\obj\Debug\Assignment1Day3.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\obj\Debug\Assignment1Day3.exe
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\obj\Debug\Assignment1Day3.pdb
+C:\CDAC\DOTNET\DAY3\DAY3\Assignment1Day3\obj\Debug\Assignment1Day3.csprojAssemblyReference.cache

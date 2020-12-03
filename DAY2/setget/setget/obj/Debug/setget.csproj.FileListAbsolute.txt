@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY2\setget\setget\bin\Debug\setget.exe.config
+C:\CDAC\DOTNET\DAY2\setget\setget\bin\Debug\setget.exe
+C:\CDAC\DOTNET\DAY2\setget\setget\bin\Debug\setget.pdb
+C:\CDAC\DOTNET\DAY2\setget\setget\obj\Debug\setget.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY2\setget\setget\obj\Debug\setget.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\setget\setget\obj\Debug\setget.exe
+C:\CDAC\DOTNET\DAY2\setget\setget\obj\Debug\setget.pdb

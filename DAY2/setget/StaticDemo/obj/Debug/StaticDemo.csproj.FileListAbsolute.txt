@@ -1,0 +1,6 @@
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\bin\Debug\StaticDemo.exe
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\obj\Debug\StaticDemo.exe
+C:\CDAC\DOTNET\DAY2\setget\StaticDemo\obj\Debug\StaticDemo.pdb

@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\obj\Debug\BasicClassComcepts.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\obj\Debug\BasicClassComcepts.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\bin\Debug\BasicClassComcepts.exe.config
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\bin\Debug\BasicClassComcepts.exe
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\bin\Debug\BasicClassComcepts.pdb
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\obj\Debug\BasicClassComcepts.exe
+C:\CDAC\DOTNET\DAY1\demo1\BasicClassComcepts\obj\Debug\BasicClassComcepts.pdb

@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY2\setget\property\obj\Debug\property.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY2\setget\property\obj\Debug\property.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\setget\property\bin\Debug\property.exe.config
+C:\CDAC\DOTNET\DAY2\setget\property\bin\Debug\property.exe
+C:\CDAC\DOTNET\DAY2\setget\property\bin\Debug\property.pdb
+C:\CDAC\DOTNET\DAY2\setget\property\obj\Debug\property.exe
+C:\CDAC\DOTNET\DAY2\setget\property\obj\Debug\property.pdb

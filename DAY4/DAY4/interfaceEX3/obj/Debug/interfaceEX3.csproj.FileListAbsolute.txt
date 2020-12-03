@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\bin\Debug\interfaceEX3.exe.config
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\bin\Debug\interfaceEX3.exe
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\bin\Debug\interfaceEX3.pdb
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\obj\Debug\interfaceEX3.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\obj\Debug\interfaceEX3.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\obj\Debug\interfaceEX3.exe
+C:\CDAC\DOTNET\DAY4\DAY4\interfaceEX3\obj\Debug\interfaceEX3.pdb

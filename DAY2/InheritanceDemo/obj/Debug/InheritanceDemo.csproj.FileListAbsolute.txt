@@ -1,0 +1,6 @@
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\CDAC\DOTNET\DAY2\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

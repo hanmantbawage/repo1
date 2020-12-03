@@ -1,0 +1,7 @@
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\obj\Debug\inheritanceEX1.csprojAssemblyReference.cache
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\obj\Debug\inheritanceEX1.csproj.CoreCompileInputs.cache
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\bin\Debug\inheritanceEX1.exe.config
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\bin\Debug\inheritanceEX1.exe
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\bin\Debug\inheritanceEX1.pdb
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\obj\Debug\inheritanceEX1.exe
+C:\CDAC\DOTNET\DAY3\DAY3\inheritanceEX1\obj\Debug\inheritanceEX1.pdb
