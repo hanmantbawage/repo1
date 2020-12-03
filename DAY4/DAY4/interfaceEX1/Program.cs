@@ -40,7 +40,7 @@ namespace interfaceEX1
         void close();
         void delete();
     }
-    class class1 : IDBfunction, Ifilefunction
+  class  class1 : IDBfunction, Ifilefunction
     {
          void IDBfunction.delete()
         {
@@ -56,10 +56,7 @@ namespace interfaceEX1
             throw new NotImplementedException();
         }
 
-        public void update()
-        {
-            throw new NotImplementedException();
-        }
+        
 
         public void open()
         {

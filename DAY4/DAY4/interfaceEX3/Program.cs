@@ -30,6 +30,16 @@ namespace interfaceEX3
              Console.WriteLine(c1.i);
             Console.WriteLine(c2.i);
 
+
+            String s1 = "One";
+            String s2 = "Two";
+           
+
+            s1 = s2;//although string is class but it is immutable 
+            s2 = "three";
+            Console.WriteLine(s1);
+            Console.WriteLine(s2);
+
             Console.ReadLine();
 
 
